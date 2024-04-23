@@ -1,4 +1,16 @@
+@font-face{
+  font-family: SNPro;
+  src: url("fonts/SNPro/SNPro-Regular.otf");
+}
+*{
+  font-family: SNPro;
+  text-align: center;
+}
 html {
   height: 100%;
   width: 100%;
+}
+a{
+  border: 2% hidden;
+  margin: 0.5%;
 }
