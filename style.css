@@ -14,3 +14,10 @@ a{
   border: 2% hidden;
   margin: 0.5%;
 }
+img{
+  border-radius: 2vmax;
+}
+#ver{
+  font-size: 1%;
+  
+}
