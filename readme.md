@@ -9,4 +9,4 @@ This replaces the old UGFN, and is far more robust.
 |EmulatorJS inclusion|No|May 6th, 2024|
 |Custom Tab Names for About:Blank cloaking|Yes|First Public Build|
 |Game Integration|Yes|First Public Build|
-|Game Thumbnails|No|TBD|
+|Game Thumbnails|Yes|April 29th, 2024|
