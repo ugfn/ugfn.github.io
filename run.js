@@ -7,6 +7,7 @@ function openGame() {
   var iframe = win.document.createElement('iframe')
   link.rel = "stylesheet"
   link.href = "frame.css"
+  win.document.body.style.margin = 0
   iframe.src = url;
   iframe.allowFullscreen = true
   iframe.frameBorder = "0"
