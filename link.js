@@ -7,6 +7,7 @@ function addGame(name, innerName){
   document.body.appendChild(link)
 }
 addGame("1v1.LOL", "1v1")
+addGame("1v1.LOL (Classic)","1v1c")
 addGame("2048", "2048")
 addGame("Agar.io", "agario")
 addGame("Breaklock", "breaklock")
