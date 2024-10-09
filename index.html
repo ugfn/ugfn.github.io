@@ -1,1 +1,15 @@
-<script></script>
+<script>;
+  var win = window.open()
+  var link = win.document.createElement("link")
+  var iframe = win.document.createElement('iframe')
+  link.rel = "stylesheet"
+  link.href = "frame.css"
+  win.document.body.style.margin = 0
+  iframe.src = "index.html";
+  iframe.allowFullscreen = true
+  iframe.frameBorder = "0"
+  iframe.style.width = "100%";
+  iframe.style.height = "100%";
+  win.document.title = UGFN
+  win.document.body.appendChild(iframe);
+</script>
