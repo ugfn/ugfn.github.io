@@ -2,7 +2,7 @@
 
 This replaces the old UGFN, and is far more robust.
 
-The feature set can is in the table below. Some are already added, some are planned for the future. 
+The feature set is in the table below. Some are already added, some are planned for the future. 
 
 |Feature|Available|Available since/Planned for|
 |---|---|---|
